@@ -1,0 +1,15 @@
+div {
+  margin: 100px;
+}
+
+.warna {
+  color: red;
+}
+
+.ukuran {
+  font-size: 50px;
+}
+
+#jenis {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

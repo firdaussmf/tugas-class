@@ -1,0 +1,27 @@
+* {
+  margin: 0px;
+}
+
+.wrepper {
+  padding: 20px;
+}
+
+.baris-1 {
+  background-color: aquamarine;
+}
+
+.baris-2 {
+  background-color: antiquewhite;
+}
+
+.baris-3 {
+  background-color: red;
+}
+
+.baris-4 {
+  background-color: blue;
+}
+
+.baris-5 {
+  background-color: green;
+}

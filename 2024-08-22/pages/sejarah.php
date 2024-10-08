@@ -1,0 +1,1 @@
+Sejarah berdirinya SMKN 2 buduran di dirikan tahun 1945
