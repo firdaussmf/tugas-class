@@ -1,0 +1,41 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("images/lamp.jpg");
+  background-position: 0% 9%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-link .navbar-brand {
+  color: white !important;
+}
+
+.navbar-brand {
+  font-size: 3vw !important;
+}
+
+.nav-link {
+  font-size: 1.3vw;
+}
+
+.content {
+  margin-top: 17vw;
+  margin-bottom: 35vw;
+}
+
+h1 {
+  font-size: 5vw !important;
+}
+
+p {
+  font-size: 22px;
+  text-align: center;
+}
