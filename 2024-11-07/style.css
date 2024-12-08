@@ -1,0 +1,43 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.logo img {
+  width: 100px;
+  height: 100px;
+}
+
+.nav ul {
+  display: flex;
+  gap: 35px;
+  list-style: none;
+}
+
+.header {
+  display: flex;
+}
+
+.sekolah {
+  margin-left: 20px;
+}
+
+.home {
+  background-image: url(./images/pgri\ 1\ buduran.jpg);
+  height: 500px;
+}
+.sejarah {
+  background-color: green;
+}
+.kegiatan {
+  background-color: gray;
+}
+.jadwal {
+  background-color: orange;
+}
+.galery {
+  background-color: blanchedalmond;
+}
+.kontak {
+  background-color: aquamarine;
+}
